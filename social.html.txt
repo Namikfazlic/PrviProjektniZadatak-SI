@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Namik Projekat</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="linkovi">
+      <a href="contact.html">Contact</a>
+      <a href="about.html">About</a>
+      <a href="social.html">Social</a>
+    </div>
+
+  <div id="social-container">
+ <a href="https://www.instagram.com" <i class="fa fa-instagram" style="font-size:48px;color:red"></i></a>
+   <a href="https://www.facebook.com" <i class="fa fa-facebook" style="font-size:48px;color:red"></i></a>
+   <a href="https://www.twitter.com" <i class="fa fa-twitter" style="font-size:48px;color:red"></i></a>
+  </div>
+    
+</body>
+</html>
